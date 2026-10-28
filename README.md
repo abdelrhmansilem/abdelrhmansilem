@@ -94,7 +94,7 @@ OSCP and CRTP paths, Active Directory offensive security (HTB Academy, GOAD lab,
 ## Contact
 
 - Portfolio: [abdelrhmansalim.vercel.app](https://abdelrhmansalim.vercel.app)
-- GitHub: [abdelrhmansleem998-sketch](https://github.com/abdelrhmansleem998-sketch)
+- GitHub: [abdelrhmansilem](https://github.com/abdelrhmansilem)
 - LinkedIn: [abdelrhman-silem](https://www.linkedin.com/in/abdelrhman-silem-61050a384/)
 - X: [@SilemAbdelrhman](https://x.com/SilemAbdelrhman)
 - Medium: [@abdelrhmansleem998](https://medium.com/@abdelrhmansleem998)
